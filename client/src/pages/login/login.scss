@@ -1,0 +1,15 @@
+.login-card {
+  width: 30vw;
+  margin: 50px auto;
+  border-radius: 20px;
+  box-shadow: 4px 4px cyan;
+}
+.btn-login{
+  width: 6rem;
+}
+@media only screen and(max-width: 976px) {
+  .login-card {
+    width: 90vw;
+    margin: 10px auto;
+  }
+}

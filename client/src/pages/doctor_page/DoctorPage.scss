@@ -1,0 +1,58 @@
+.doctor-view-btn {
+  border-radius: 30px;
+}
+.nav-container {
+  width: 10px;
+  overflow-x: hidden;
+  //display: inline;
+  
+}
+.offcanvas-start {
+  width: 300px;
+  color: white;
+ // display: inline;
+}
+.doctor-card {
+  
+  border-radius: 30px;
+  overflow-x: hidden;
+  margin-right: 10px;
+  margin-bottom: 30px;
+}
+.anchor.nav-link {
+  color: white;
+}
+.anchor.nav-link:link {
+  color: white;
+  text-decoration: none;
+}
+
+/* visited link */
+.anchor.nav-link:visited {
+  color: white;
+}
+
+/* mouse over link */
+.anchor.nav-link:hover {
+  color: red;
+}
+
+/* selected link */
+.anchor.nav-link:active {
+  color: yellow;
+}
+.mb-3 doctor-nav
+{
+  display: inline;
+}
+// @media only screen and (max-width: 1095px) {
+//   .nav1 {
+//     display: none;
+//   }
+// }
+
+// @media only screen and(min-width:1096px) {
+//   .status-dropdown {
+//     display: none;
+//   }
+// }
